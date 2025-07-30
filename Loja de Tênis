@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tênis G</title>
+    <link rel="stylesheet" href="meustyle.css">
+</head>
+<body>
+
+    <header>
+        <h1>Tênis G</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Produtos</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    <section class="banner">
+        <h2>O melhor do conforto para os seus pés!</h2>
+        <p style="text-align: justify;"> A Tênis G é a escolha certa para quem valoriza qualidade, conforto e estilo em cada passo.
+            Desde a sua fundação, nossa missão tem sido oferecer o que há de melhor no mercado de calçados esportivos e casuais.
+            Sabemos que cada cliente é único, com gostos, necessidades e rotinas diferentes.
+            Por isso, trabalhamos com uma seleção diversificada, que atende desde atletas profissionais até quem busca um tênis para o dia a dia.
+            Aqui, você encontra modelos de marcas renomadas, que combinam design moderno e tecnologias avançadas.
+            Nosso compromisso vai além da venda: queremos proporcionar uma experiência completa e satisfatória.
+            Nossa equipe é formada por especialistas apaixonados por tênis, prontos para orientar e ajudar na escolha ideal.
+            O ambiente das nossas lojas é acolhedor, pensado para que você se sinta à vontade e seguro para experimentar e decidir.
+            Além disso, oferecemos uma plataforma online fácil de navegar, com descrições detalhadas, fotos reais e avaliações de clientes.
+            Comprar na Tênis G é sinônimo de praticidade: entregamos em todo o Brasil, com rapidez e segurança.
+            Valorizamos a transparência e a confiança, por isso garantimos políticas claras de troca e devolução.
+            Além dos modelos tradicionais, estamos sempre atualizados com as últimas tendências da moda e do esporte.
+            Nossa coleção inclui tênis para corrida, caminhada, treino, casual e até para ocasiões especiais.
+            Oferecemos promoções frequentes e condições especiais de pagamento para facilitar sua compra.
+            Acreditamos que o tênis perfeito pode transformar sua rotina e te ajudar a alcançar seus objetivos.
+            Cada detalhe do produto, desde o design até o acabamento, é pensado para garantir durabilidade e conforto.
+            Na Tênis G, o cliente é prioridade: estamos sempre disponíveis para esclarecer dúvidas e oferecer suporte pós-venda.
+            Investimos em parcerias que ampliam nossa capacidade de inovar e trazer novidades exclusivas.
+            Queremos inspirar você a se movimentar, a explorar o mundo e a se expressar através do seu estilo.
+            Nosso compromisso com a sustentabilidade também é forte, buscando alternativas que respeitem o meio ambiente.
+            Seja qual for seu estilo, temos o tênis ideal para você caminhar com segurança e personalidade.
+            Venha nos visitar ou acesse nosso site e descubra por que a Tênis G é referência no segmento.
+            Junte-se à nossa comunidade e faça parte de uma experiência que vai além do calçado.
+            Com a Tênis G, cada passo é uma conquista, cada escolha é um reflexo do seu jeito de ser.
+            Afinal, o melhor caminho é aquele que você escolhe trilhar com confiança.
+            Tênis G — O seu parceiro para todos os passos da vida.
+            Aqui, o conforto encontra o estilo, e a paixão pelo tênis vira inspiração para o seu dia.
+            Estamos prontos para atender você e transformar sua maneira de calçar o mundo.
+            
+            
+        </p>
+    </section>
+   
+
+    <section class="produto">
+        <img src="/home/escola/Área de Trabalho/Loja de tênis/tênis amarelo.png" alt="Tênis Super Run">
+        <h3>Tênis Super Run</h3>
+        <p class="preco">R$ 299,90</p>
+    </section>
+    <footer>
+        &copy; 2025  Tênis G - Todos os direitos reservados.
+    </footer>
+
+</body>
+</html>
